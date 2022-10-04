@@ -6,5 +6,6 @@ public class Main {
         Scanner sc= new Scanner(System.in);
         int numero_dni = sc.nextInt();
         System.out.println("La letra del dni es: "+lDni[(numero_dni % 23)]);
+
     }
 }
