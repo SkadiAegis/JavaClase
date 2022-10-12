@@ -3,7 +3,6 @@ import java.util.TreeSet;
 
 public class Main {
     public static void main(String[] args) {
-//define un hashset de 10 numeros aleatorios y ordenalo por su valor
         HashSet<Integer> hs = new HashSet<Integer>();
         for (int i = 0; i < 10; i++) {
             hs.add((int) (Math.random() * 100));
