@@ -23,5 +23,6 @@ public class Main {
 
         System.out.println(Stack.toString(list));
 
+        //La explicacion de porque he usado un linked list esta en el README
     }
 }
