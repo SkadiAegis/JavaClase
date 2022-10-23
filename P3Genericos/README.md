@@ -16,7 +16,7 @@ Todas las funcionalidades han sido conseguidas y he podido hacer que se expanda 
 
 ## Porque he usado un LinkedList
 
-He usado el LinkedList ya que es mejor que el ArrayList en cuanto manipulacion de datos ademas al usar LinkedList al borrar el primer elemento el segundo elemento toma el lugar del primero
+He usado el LinkedList ya que es mejor que el ArrayList en cuanto manipulacion de datos ademas al usar LinkedList al borrar el primer elemento el segundo elemento toma el lugar del primero.
 
 ### PD
 

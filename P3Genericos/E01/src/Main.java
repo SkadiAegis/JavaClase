@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>();
 
-        Stack.add(list, "Hola");
-        Stack.add(list, "Adios");
+        Stack.add(list, "Luis");
+        Stack.add(list, "Ana");
         Stack.add(list, "Pepe");
         Stack.add(list, "Juan");
         Stack.add(list, "Maria");
