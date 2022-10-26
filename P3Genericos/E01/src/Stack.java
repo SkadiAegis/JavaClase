@@ -1,9 +1,5 @@
 import java.util.LinkedList;
-
-
 public class Stack<T> {
-
-
     private T t; //La T mayuscula es para indicar que tipo de variable es (Int, double, String, etc)
     public Stack(T t) {
         this.t=t;

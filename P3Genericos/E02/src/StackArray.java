@@ -1,4 +1,3 @@
-import java.util.LinkedList;
 
 public class StackArray<T> {
     private T[] array; //Crea array tipo T (T puede ser cualquier tipo de dato)
