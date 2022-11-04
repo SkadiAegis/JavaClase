@@ -12,7 +12,7 @@ Gracias al codigo que nos subiste no ha sido muy dificil de resolver habria sido
 
 Todas las funcionalidades han sido conseguidas.
 
-##PD:
+## PD:
 
 Los GIF estan dentro de la carpeta de cada ejercicio
 
