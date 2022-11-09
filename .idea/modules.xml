@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P3Genericos/E01/E01.iml" filepath="$PROJECT_DIR$/P3Genericos/E01/E01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4XML/E01/E011.iml" filepath="$PROJECT_DIR$/P4XML/E01/E011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E01/E012.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E01/E012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1Arrays/E01/E013.iml" filepath="$PROJECT_DIR$/P1Arrays/E01/E013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3Genericos/E02/E02.iml" filepath="$PROJECT_DIR$/P3Genericos/E02/E02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4XML/E02/E021.iml" filepath="$PROJECT_DIR$/P4XML/E02/E021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1Arrays/E02/E022.iml" filepath="$PROJECT_DIR$/P1Arrays/E02/E022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E02/E023.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E02/E023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4XML/E03/E03.iml" filepath="$PROJECT_DIR$/P4XML/E03/E03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1Arrays/E03/E031.iml" filepath="$PROJECT_DIR$/P1Arrays/E03/E031.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E03/E032.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E03/E032.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E04/E04.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E04/E04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E05/E05.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E05/E05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E06/E06.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E06/E06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E07/E07.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E07/E07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E08/E08.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E08/E08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E09/E09.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E09/E09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E10/E10.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E10/E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2Cadenas de texto/E11/E11.iml" filepath="$PROJECT_DIR$/P2Cadenas de texto/E11/E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticasGitHub.iml" filepath="$PROJECT_DIR$/.idea/PracticasGitHub.iml" />
+    </modules>
+  </component>
+</project>
